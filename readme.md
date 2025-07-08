@@ -1,7 +1,7 @@
 # Hi there :wave:
 
-I'm a User Experience focused developer currently building great user experiences within the WordPress Block Editor as the Director of Editorial Engineering [@10up](https://github.com/10up). 
+I’m a user experience–focused developer passionate about crafting intuitive, delightful tools for the open web. Currently, I lead the editorial engineering practice at @10up/@fueled, where I help shape modern publishing experiences in the WordPress Block Editor.
 
-I contribute back to [@WordPress](https://github.com/WordPress) core whenever I can and am speaking atConferences & Meetups. 
+I’m an active contributor to @WordPress core and a speaker at conferences and meetups, sharing insights on WordPress, editorial workflows, and user-centered design.
 
-My inboxes are always open and I'm happy to chat about all things WordPress, the Web, and User Experience :) 
+Always happy to connect, whether you want to talk about WordPress, the web platform, or how we can build better experiences for everyone.
